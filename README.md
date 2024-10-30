@@ -8,7 +8,7 @@ how are you?
 
 I spend my free time practicing muay thai, playing video games and/or learning new stuff :)
 
-- 🎓 doing master's degree in Data Science, while part-time working as Research Assistant at IDSIA (USI-SUPSI)
+- 🎓 doing master's degree in Data Science @ [SUPSI][uni], while part-time working as Research Assistant @ [IDSIA][idsia]
 - 📋 Resume and portfolio coming soon!
 - 🌍 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2)
 - 👨🏻‍💻 Programming languages: 🐍 Python, 📊 R (basic knowledge), ☕️ Java (basic knowledge)
@@ -33,3 +33,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 </a>
 
+
+[uni]: https://www.supsi.ch
+[idsia]: https://www.idsia.usi-supsi.ch
