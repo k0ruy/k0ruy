@@ -17,7 +17,7 @@ I really like music, technology-related stuff and nature. Hackathons are a new e
 
 ## my links
 <a href="https://www.linkedin.com/in/christian-berchtold/">
-    <img src="https://img.shields.io/badge/-Christian_Berhctold-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Christian_Berchtold-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <!--a href="https://steamcommunity.com/id/spectatormain">
     <img src="https://img.shields.io/badge/-SpectatorMain-1b2838?style=flat-square&logo=Steam&logoColor=white" />
