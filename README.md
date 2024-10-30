@@ -6,11 +6,11 @@ how are you?
 <!--img src="https://media.tenor.com/mTj_CD3YTNAAAAAi/breakdown-white.gif" align="right" alt="bg-readme-picture" /-->
 <!--img src="https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" align="right" alt="bg-readme-picture" /-->
 
-I spend my free time practicing martial arts, playing video games and/or learning new stuff :)
+I spend my free time practicing muay thai, playing video games and/or learning new stuff :)
 
 - 🎓 doing master's degree in Data Science, while part-time working as Research Assistant at IDSIA (USI-SUPSI)
 - 📋 Resume and portfolio coming soon!
-- 🗣 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2)
+- 🌍 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2)
 - 👨🏻‍💻 Programming languages: 🐍 Python, 📊 R (basic knowledge), ☕️ Java (basic knowledge)
 
 I really like music, technology-related stuff and nature. Hackathons are a new entry in my hobby list, and CTFs are on the want-to-do!
