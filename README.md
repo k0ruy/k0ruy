@@ -15,8 +15,15 @@ I spend my free time practicing martial arts, playing video games and/or learnin
 
 I really like music, technology-related stuff and nature. Hackathons are a new entry in my hobby list, and CTFs are on the want-to-do!
 
+## my links
+<a href="https://www.linkedin.com/in/christian-berchtold/">
+    <img src="https://img.shields.io/badge/-Christian_Berhctold-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<!--a href="https://steamcommunity.com/id/spectatormain">
+    <img src="https://img.shields.io/badge/-SpectatorMain-1b2838?style=flat-square&logo=Steam&logoColor=white" />
+</a-->
 
-# My stats
+## my stats
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
