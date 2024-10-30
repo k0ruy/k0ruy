@@ -1,4 +1,4 @@
-# hi.
+# hi 🙋🏻‍♂️
 how are you?
 
 <img src="https://icon-library.com/images/cat-icon-gif/cat-icon-gif-1.jpg" align="right" alt="bg-readme-picture" width="250" height="250">
@@ -10,13 +10,13 @@ I spend my free time practicing martial arts, playing video games and/or learnin
 
 - 🎓 doing master's degree in Data Science, while part-time working as Research Assistant at IDSIA (USI-SUPSI)
 - 📋 Resume and portfolio coming soon!
-- 🗣 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2).
+- 🗣 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2)
 - 👨🏻‍💻 Programming languages: 🐍 Python, 📊 R (basic knowledge), ☕️ Java (basic knowledge)
 
 I really like music, technology-related stuff and nature. Hackathons are a new entry in my hobby list, and CTFs are on the want-to-do!
 
 
-# My repos
+# My stats
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
