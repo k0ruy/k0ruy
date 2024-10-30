@@ -10,7 +10,7 @@ I spend my free time practicing muay thai, playing video games and/or learning n
 
 - 🎓 doing master's degree in Data Science @ [SUPSI][uni], while part-time working as Research Assistant @ [IDSIA][idsia]
 - 📋 Resume and portfolio coming soon!
-- 🌍 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2)
+- 🌍 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2), other ones are being learned 😊
 - 👨🏻‍💻 Programming languages: 🐍 Python, 📊 R (basic knowledge), ☕️ Java (basic knowledge)
 
 I really like music, technology-related stuff and nature. Hackathons are a new entry in my hobby list, and CTFs are on the want-to-do!
