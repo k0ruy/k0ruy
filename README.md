@@ -1,7 +1,7 @@
 # hi.
 how are you?
 
-<img src="https://icon-library.com/images/cat-icon-gif/cat-icon-gif-1.jpg" align="right" alt="bg-readme-picture" width="200" height="200">
+<img src="https://icon-library.com/images/cat-icon-gif/cat-icon-gif-1.jpg" align="right" alt="bg-readme-picture" width="150" height="150">
 <!--img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" align="right" alt="bg-readme-picture" width="250" height="285" /-->
 <!--img src="https://media.tenor.com/mTj_CD3YTNAAAAAi/breakdown-white.gif" align="right" alt="bg-readme-picture" /-->
 <!--img src="https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" align="right" alt="bg-readme-picture" /-->
