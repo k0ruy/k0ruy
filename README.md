@@ -23,15 +23,15 @@ I really like music, technology-related stuff and nature. Hackathons are a new e
     <img src="https://img.shields.io/badge/-SpectatorMain-1b2838?style=flat-square&logo=Steam&logoColor=white" />
 </a-->
 
-## my stats
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/k0ruy/github-stats-transparent">
+<!--a href="https://github.com/k0ruy/github-stats-transparent">
 <img src="https://github.com/k0ruy/github-stats-transparent/blob/output/generated/overview.svg">
 <img src="https://github.com/k0ruy/github-stats-transparent/blob/output/generated/languages.svg">
 
-</a>
+</a-->
 
 
 [uni]: https://www.supsi.ch
