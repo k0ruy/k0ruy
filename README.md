@@ -1,10 +1,10 @@
 # hi 🙋🏻‍♂️
 how are you?
 
-<!--img src="https://icon-library.com/images/cat-icon-gif/cat-icon-gif-1.jpg" align="right" alt="bg-readme-picture" width="250" height="250" /-->
-<img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" align="right" alt="bg-readme-picture" width="250" height="285" >
-<!--img src="https://media.tenor.com/mTj_CD3YTNAAAAAi/breakdown-white.gif" align="right" alt="bg-readme-picture" /-->
-<!--img src="https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" align="right" alt="bg-readme-picture" /-->
+
+<img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" align="right" alt="bg-readme-picture" width="250" height="285" > <!-- totoro /-->
+<!--img src="https://media.tenor.com/mTj_CD3YTNAAAAAi/breakdown-white.gif" align="right" alt="bg-readme-picture" /--> <!-- crazyman throwing fist at floor /-->
+<!--img src="https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" align="right" alt="bg-readme-picture" /--> <!-- ds fiery knight /-->
 
 I spend my free time practicing muay thai, playing video games and/or learning new stuff :)
 
