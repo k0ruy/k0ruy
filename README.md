@@ -24,14 +24,13 @@ I really like music, technology-related stuff and nature. Hackathons are a new e
 </a-->
 
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<!--a href="https://github.com/k0ruy/github-stats-transparent">
-<img src="https://github.com/k0ruy/github-stats-transparent/blob/output/generated/overview.svg">
-<img src="https://github.com/k0ruy/github-stats-transparent/blob/output/generated/languages.svg">
+## repos info
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-</a-->
+![](https://raw.githubusercontent.com/k0ruy/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/k0ruy/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 
 [uni]: https://www.supsi.ch
