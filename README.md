@@ -11,9 +11,9 @@ I spend my free time practicing muay thai, playing video games and/or learning n
 - 🎓 doing master's degree in Data Science @ [SUPSI][uni], while part-time working as Research Assistant @ [IDSIA][idsia]
 - 📋 Resume and portfolio coming soon!
 - 🌍 Spoken languages:  🇮🇹 Italian (Native), 🇬🇧 English (B2), 🇩🇪 German and 🇫🇷 French (A2), other ones are being learned 😊
-- 👨🏻‍💻 Programming languages: 🐍 Python, 📊 R (basic knowledge), ☕️ Java (basic knowledge)
+- 👨🏻‍💻 Programming languages: 🐍 Python, 📊 R (basic knowledge), ☕️ Java (very basic knowledge)
 
-I really like music, technology-related stuff and nature. Hackathons are a new entry in my hobby list, and CTFs are on the want-to-do!
+I really like music, technology-related stuff and mountaineering. Also I'm into cars and mechanical-related topics, be it maintenance or ecu mapping, I kinda like it all :))
 
 ## my links
 <a href="https://www.linkedin.com/in/christian-berchtold/">
